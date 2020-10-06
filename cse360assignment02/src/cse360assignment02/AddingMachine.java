@@ -1,5 +1,7 @@
 package cse360assignment02;
 
+//github: https://github.com/RBusername/CSE360assignment02/blob/master/cse360assignment02/src/cse360assignment02/AddingMachine.java
+
 public class AddingMachine {
 	private int total;
 	private String memory = "0";
